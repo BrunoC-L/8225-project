@@ -19,7 +19,7 @@ InfoGAN consists in a GAN implementation capable of unsupervised disentangled re
 
 # Our results
 
-![alt text](https://user-images.githubusercontent.com/47933584/116708036-51119b00-a99d-11eb-9505-d6b131b4974a.png)
+![alt text](https://user-images.githubusercontent.com/47933584/116708036-51119b00-a99d-11eb-9505-d6b131b4974a.png | width=100)
 
 We were able to reproduce figures from the article with some success with different configurations for the datasets MNIST, SVHN and CELEBA. The GitHub from OpenAI has code that we were not able to execute, even with various dockerhub tensorflow versions and prettytensor versions. It was extremely hard to diagnose our failures and improve with no working example from the original configuration. We believe it has to do with our mutual information loss being improperly calculated, but still we achieve the theoretical maximum of I = 2.3 for C1 on MNIST, making it hard to believe we used the wrong formula. For continuous codes, we were unable to figure out the formula for mutual information maximization. We simply used MSE as an analogy that being able to reproduce the input means somehow to gan stored the information in the image.
 
