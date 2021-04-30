@@ -1,5 +1,5 @@
 # 8225-project
-final project for inf8225 on InfoGAN at Polytechnique Montreal, winter 2021 semester
+Final project for INF8225 on InfoGAN at Polytechnique Montreal, Winter 2021 semester
 
 # Authors
 - Bruno Curzi-Laliberté
