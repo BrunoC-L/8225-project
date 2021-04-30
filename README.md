@@ -19,9 +19,9 @@ InfoGAN consists in a GAN implementation capable of unsupervised disentangled re
 
 # Our results
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/47933584/116708036-51119b00-a99d-11eb-9505-d6b131b4974a.png" width="200" />
-  <img src="https://user-images.githubusercontent.com/47933584/116708036-51119b00-a99d-11eb-9505-d6b131b4974a.png" width="200" /> 
-  <img src="https://user-images.githubusercontent.com/47933584/116708036-51119b00-a99d-11eb-9505-d6b131b4974a.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/47933584/116708036-51119b00-a99d-11eb-9505-d6b131b4974a.png" width="300" />
+  <img src="https://user-images.githubusercontent.com/47933584/116708036-51119b00-a99d-11eb-9505-d6b131b4974a.png" width="300" /> 
+  <img src="https://user-images.githubusercontent.com/47933584/116708036-51119b00-a99d-11eb-9505-d6b131b4974a.png" width="300" />
 </p>
 
 
